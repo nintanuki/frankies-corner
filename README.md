@@ -36,7 +36,7 @@ The trick is to stop looking for one perfect product. Buy a plain, sturdy desk n
 
 ### Phase 1 - Get the surface (this is what to buy now)
 
-This is the only thing we need to order right now. **A simple, fixed-height rectangular desk, about 48" wide** (up to ~55" only if the closet door still clears it), with an open top and room for legs underneath. No hutch, no built-in shelves crowding the surface, no pegboard. Plain table-style desks like this run roughly $80-150 at Amazon, Home Depot, Wayfair, or IKEA. That's it for now. Everything below can wait and gets added to the existing desk.
+This is the only thing we need to order right now. **A simple, fixed-height rectangular desk, about 48" wide** (up to ~55" only if the closet door still clears it), with an open top and room for legs underneath. No hutch, no built-in shelves crowding the surface, no pegboard. Plain table-style desks like this run roughly $80-150 at Amazon, Home Depot, Wayfair, or IKEA. Aim for ~24-30" deep so a wall-mounted monitor sits at a comfortable distance, and skip anything with a tall hutch or back panel so the desk pushes flat against the wall and leaves it free for the optional wall storage later. That's it for now. Everything below can wait and gets added to the existing desk.
 
 ### Phase 2 - Get the monitor off the surface
 
@@ -44,8 +44,12 @@ A monitor that mounts to the wall behind the desk (a VESA wall mount) or a clamp
 
 ### Phase 3 - Storage for tools and parts
 
+Baseline (gets the job done):
+
 - A small **rolling drawer cart** that tucks under or beside the desk for tools. ~$40-80.
 - **Stackable small-parts bins / organizers** for components, LEGO, K'NEX, etc. ~$15-40.
+
+**Luxury upgrade - wall storage (optional, not required):** Mount a **pegboard or slat panel on the wall behind the desk** and hang tools and small bins right off it, so I can grab whatever I need at eye level without reaching under the desk, like a real workbench. This is the look from the reference photos below, achieved cheaply by using the actual wall as the frame instead of buying an integrated unit. Pegboard panel + hooks + clip-on bins run roughly ~$40-100. Pure nicety; the baseline above covers everything functionally.
 
 ### Phase 4 - Power and light
 
