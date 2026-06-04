@@ -1,6 +1,6 @@
-# Frankies Corner
+# Frankie's Corner
 
-A corner of the study turned into a clean, flexible workbench for nerdy fun: electronics, Arduino, Raspberry Pi, plus LEGO / K'NEX / puzzles. Not a traditional computer desk. The surface stays clear and open at all times. The monitor lives off the surface (wall or floating mount), and parts and tools get their own storage.
+A corner of the study turned into a clean, flexible workbench for nerdy fun: electronics, Arduino, Raspberry Pi, plus LEGO / K'NEX / puzzles, or any other kind of crafting/building project. Not a traditional computer desk. The surface stays clear and open at all times. The monitor lives off the surface (wall or floating mount), and parts and tools get their own storage.
 
 ## What I'm actually trying to build
 
