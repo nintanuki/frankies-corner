@@ -62,15 +62,15 @@ Old options I'd considered, kept here for reference:
 
 - [**WEN WB4723T 48" Workbench**](https://www.amazon.com/WEN-WB4723T-48-Inch-Workbench-Outlets/dp/B08ZW1KYZN/) with power outlets and light (~$150-200) - nice, but no leg room, unsure of height, and the big pegboard is overkill.
 
-![WEN WB4723T 48" Workbench](images/image1.jpg)
+<img src="images/image1.jpg" alt="WEN WB4723T 48&quot; Workbench" width="300">
 
 - [**Craftsman Mobile Worktable**](https://www.cubicles.com/shop/industrial-workbench/workbench-with-storage/craftsman-mobile-worktable) - exactly the right spirit (power strip, tool/parts storage, fits a PC) but over $5,000.
 
-![Craftsman Mobile Worktable](images/image2.jpg)
+<img src="images/image2.jpg" alt="Craftsman Mobile Worktable" width="300">
 
 - **Custom IT/LAN workbenches** - right idea (bottom shelf with leg room, mounted monitors, clear surface, power strip) but built for businesses and expensive.
 
-![Custom IT/LAN workbench](images/image3.jpg)
+<img src="images/image3.jpg" alt="Custom IT/LAN workbench" width="300">
 
 - Helpful search keywords: LAN workstation, IT table, computer workbench, computer table, LAN table, tech workstation, computer desk, IT desk, LAN station.
 - DIY references (if I ever change my mind on building): "Ultimate Electronics Station Build" (~$300) and "How to Build a Cable-Free Desk with Built-In Lights, USB, Outlets + More."
