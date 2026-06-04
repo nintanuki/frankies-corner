@@ -4,7 +4,7 @@ A corner of the study turned into a clean, flexible workbench for nerdy fun: ele
 
 ## What I'm actually trying to build
 
-I struggled to find this online because I didn't know what to call it. The closest real-world terms are: **electronics workbench**, **maker desk**, **IT / LAN workstation**, **tech workstation**, or **computer workbench**. Everything I found that nailed all my requirements was either aimed at businesses or absurdly expensive (one custom worktable was over $5,000). Building it from scratch isn't an option (I don't know how, and I need to hand my wife a shopping list soon). So the goal is to **assemble** the right setup from cheap, off-the-shelf parts rather than build or buy a single fancy unit.
+I struggled to find this online because I didn't know what to call it. The closest real-world terms are: **electronics workbench**, **maker desk**, **IT / LAN workstation**, **tech workstation**, or **computer workbench**. Everything I found that nailed all my requirements was either aimed at businesses or absurdly expensive (one custom worktable was over $5,000). Building it from scratch isn't an option (I don't know how, and we need to get something soon because that corner is sad). So the goal is to **assemble** the right setup from cheap, off-the-shelf parts rather than build or buy a single fancy unit.
 
 ## The space
 
@@ -28,7 +28,7 @@ Must have:
 Nice to have:
 
 - Lighting above the work surface
-- Room underneath for a PC (on a shelf or the floor, not on the desktop)
+- Room underneath for a PC or storage (on a shelf or the floor, not on the desktop)
 
 ## The plan: cheapest, fastest way to do this
 
@@ -36,7 +36,7 @@ The trick is to stop looking for one perfect product. Buy a plain, sturdy desk n
 
 ### Phase 1 — Get the surface (this is what to buy now)
 
-This is the only thing my wife needs to order right now. **A simple, fixed-height rectangular desk, about 48" wide** (up to ~55" only if the closet door still clears it), with an open top and room for legs underneath. No hutch, no built-in shelves crowding the surface, no pegboard. Plain table-style desks like this run roughly $80-150 at Amazon, Home Depot, Wayfair, or IKEA. That's it for now. Everything below can wait and gets added to the existing desk.
+This is the only thing we need to order right now. **A simple, fixed-height rectangular desk, about 48" wide** (up to ~55" only if the closet door still clears it), with an open top and room for legs underneath. No hutch, no built-in shelves crowding the surface, no pegboard. Plain table-style desks like this run roughly $80-150 at Amazon, Home Depot, Wayfair, or IKEA. That's it for now. Everything below can wait and gets added to the existing desk.
 
 ### Phase 2 — Get the monitor off the surface
 
