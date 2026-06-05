@@ -104,6 +104,36 @@ This covers both passions without dual-booting friction, and the single monitor 
 
 ---
 
+## Leading candidate - ModFusion 63" Metal Workbench
+
+**[ModFusion 63" Metal Workbench with Pegboard, Hooks & Power Strip, Wood Top](https://www.walmart.com/ip/ModFusion-Black-Metal-Workbench-with-Pegboard-Hooks-Power-Strip-Natural-Wood-Finish/17304212934)** - $420.88 at Walmart. Free shipping, free 30-day returns. Sold/shipped by ModFusion (seller rated 4.2 stars over 774 reviews; the item itself has no ratings yet).
+
+<img src="images/modfusion.webp" alt="ModFusion 63&quot; Metal Workbench" width="380">
+
+This is essentially the affordable version of the IT/LAN workbench look. It collapses Tier 1 plus most of Tier 2 into one purchase.
+
+**What it includes (from the listing):** wood-grain MDF top **47.2"W x 23.6"D**, full-height pegboard back panel with **18 steel hooks** in three sizes (5/10/20 cm), an upper side shelf, a side organizer + hook, and a built-in **power strip (two AC + two USB, 6.56 ft cord)**. Black powder-coated steel frame, 76 lb. Choose **fixed feet or optional caster wheels** (two with brakes). Overall height 63" including the pegboard.
+
+**Pros:**
+
+- Width **47.2"** lands right in the target zone and clears the closet door.
+- **Pegboard + 18 hooks built in** - the wall-storage luxury, tools at eye level, no separate pegboard project.
+- **Power strip built in** (AC + USB), so Tier 2 power is handled.
+- Extra storage already there: upper shelf, side organizer, hook.
+- Sturdy steel frame; optional casters mean mobile or stationary.
+- Free shipping and 30-day returns make it low-risk to try.
+
+**Cons / verify before buying:**
+
+- **No spot for the monitor.** The pegboard fills the vertical zone a floating monitor would use. Fix: add a **clamp-on monitor arm** to the back edge of the worktop so the screen floats in front of the pegboard. Do NOT VESA-mount onto the pegboard itself (not load-rated).
+- **Seated height is the big unknown.** The product photo shows a tall stool, which hints this may be counter/standing height. Confirm the adjustable legs go down to roughly **29-30"** so it works with a normal desk chair. If it bottoms out around 34"+, it's a stander and breaks the sit-down requirement.
+- **Depth 23.6" is a bit shallow** - the monitor arm mitigates this by getting the screen off the surface.
+- **Only 2 AC outlets** - fine to start, but plug in a slim power strip once the mini PC, speakers, light, etc. pile up.
+- **MDF top**, not solid wood - fine for this use, just not for heavy abuse.
+- New listing with no item ratings yet.
+
+**Verdict:** Strong pick if the height checks out. Pair it with a clamp-on monitor arm and confirm the seated height before ordering.
+
 ## Notes / reference (from the original write-up)
 
 Old options I'd considered, kept here for reference:
